@@ -5,7 +5,7 @@
 > ：Android 端已经完成验证；`shared` 以 `commonMain` 承载 Kuikly Compose UI、状态和业务控制器，Android 端承载腾讯云 IM SDK、系统能力与 Kuikly Native Module。
 
 
-## 0. 实现效果
+## 0. 实现效果(gif有点大，可能预览不出来)
 ![演示动图](./proj_gif/111-ezgif.com-optimize.gif)
 
 ## 1. 背景与迁移目标
